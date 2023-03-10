@@ -17,6 +17,14 @@
   Do not use quotes on the <details> tag attributes.
 -->
 
+<details id=X open>
+<summary><h2>Notes</h2></summary>
+
+- Keywords required for a valid `action.yml` = name + runs + description.
+- Workflow command to set debug message: `echo "::error::This is an error message"`
+
+</details>
+
 <details id=0>
 <summary><h2>Welcome</h2></summary>
 
@@ -448,7 +456,7 @@ Everything is all set up and now we are ready to start laughing. You will find y
  
 </details>
 
-<details id=X open>
+<details id=7>
 <summary><h2>Finish</h2></summary>
 
 <img src=https://octodex.github.com/images/poptocat_v2.png alt=celebrate width=300 align=right>
